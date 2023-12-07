@@ -1,0 +1,14 @@
+{
+  "name": "omegasoftware-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "getMinIndex": "./bin/index.js"
+  },
+  "author": "Kirill Tyutin",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
